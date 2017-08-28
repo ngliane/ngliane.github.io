@@ -1,9 +1,21 @@
-h1, h3, h4 {
-	font-family: "Open Sans", sans-serif;
+h1 {
+	font-family: "Proxima Nova", sans-serif;
+	font-weight: lighter;
+	font-size: 60px;
+}
+
+h2 {
+	font-family: "Proxima Nova", sans-serif;
+	font-weight: lighter;
+	font-size: 35px;
+}
+
+h3, h4 {
+	font-family: "Proxima Nova", sans-serif;
 }
 
 p {
-	font-family: "Open Sans", sans-serif;
+	font-family: "Proxima Nova", sans-serif;
 }
 
 header {
@@ -12,8 +24,11 @@ header {
 }
 
 nav a {
-	font-family: "Open Sans", sans-serif;
+	font-family: "Proxima Nova", sans-serif;
 	text-decoration: none;
+	color: inherit;
+	margin-right: 20px;
+	font-size: 13px;
 }
 
 #hero {
