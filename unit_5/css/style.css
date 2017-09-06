@@ -5,8 +5,16 @@ body {
 }
 
 header {
-	background-color: #B2FEFA;
+	background-color: #FFED74;
 	height: 50px;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav{
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 nav a {
@@ -24,6 +32,18 @@ h1 {
 h2 {
 	font-weight: lighter;
 	font-size: 35px;
+}
+
+div,section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 #hero {
