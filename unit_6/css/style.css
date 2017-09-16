@@ -18,7 +18,6 @@ nav a {
 	float: right;
 }
 
-
 h1 {
 	font-family: 'Merriweather', serif;
 	font-weight: lighter;
@@ -82,7 +81,7 @@ footer p {
 }
 
 .work {
-	padding: 22em 0;
+	padding: 22em 2em;
 }
 
 .work div {
