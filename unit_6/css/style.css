@@ -2,12 +2,12 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
 
 body {
-	font-family: 'Merriweather', serif;
+	font-family: 'Proxima Nova', sans-serif;
 	font-size: 16px; /*1em = 16px*/
 }
 
 header {
-	background-color: #FFED74;
+	background-color: #B2FEFA;
 	height: 50px;
 }
 
@@ -15,20 +15,23 @@ nav a {
 	text-decoration: none;
 	color: inherit;
 	margin-right: 20px;
-	font-size: 13px;
 	float: right;
 }
 
+
 h1 {
+	font-family: 'Merriweather', serif;
 	font-weight: lighter;
-	font-size: 40px;
+	font-size: 2.5em;
 }
+
 
 h2 {
 	font-weight: lighter;
-	font-size: 25px;
+	font-size: 2em;
 	width: 30em;
 }
+
 
 p {
 	line-height: 1.5em;
@@ -37,28 +40,56 @@ p {
 
 footer {
 	background-color: #eee;
+	clear: both;
+	padding: 2em 0;
 }
 
 footer p {
 	float: right;
 }
 
+/*.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}*/
 
 #hero {
 	background-color: #B2FEFA;
 	height: 300px;
 }
 
-.services section {
-	width: 33%;
-	float: left;
+/*.services {
+	margin: 3em 0;
+	background: #ddd;
+}*/
+
+.services {
+	background: #eee;
 }
 
-.caption div {
+.services section {
+	width: 25%;
+	float: left;
+	padding: 3em 2em;
+}
+
+.services img {
+	width: 50%;
+}
+
+.work {
+	padding: 22em 0;
+}
+
+.work div {
 	width: 25%;
 	float: left;
 }
 
-.caption {
-	font-size: 13px;
+.work img {
+	width: 80%;
 }
