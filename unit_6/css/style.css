@@ -7,7 +7,7 @@ body {
 }
 
 header {
-	background-color: #B2FEFA;
+	background-color: #3ACCED;
 	height: 50px;
 }
 
@@ -40,7 +40,7 @@ p {
 footer {
 	background-color: #eee;
 	clear: both;
-	padding: 2em 0;
+	padding: 2em 2em;
 }
 
 footer p {
@@ -57,7 +57,7 @@ footer p {
 }*/
 
 #hero {
-	background-color: #B2FEFA;
+	background-color: #3ACCED;
 	height: 300px;
 }
 
