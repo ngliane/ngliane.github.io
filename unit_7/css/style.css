@@ -52,7 +52,14 @@ h1 {
 h1 span {
 	font-size:2em;
 }
-h2, h3{
+h2{
+	font-family: 'Abhaya Libre', serif;
+	font-size: 2em;
+	font-weight: 400;
+	padding: 0 0 0 1em;
+}
+
+h3{
 	font-family: 'Abhaya Libre', serif;
 	font-size: 1.5em;
 	font-weight: 400;
@@ -62,6 +69,14 @@ p {
 	line-height: 1.5em;
 }
 
+hr{
+	border:none;
+	height:4px;
+	background-color: #42C6C6;
+	width:2.5em;
+	margin: 1.5em 2em;
+}
+
 
 footer {
 	background-color: #eee;
@@ -69,8 +84,9 @@ footer {
 	padding: 2em 2em;
 }
 
-footer p {
+footer a {
 	float: right;
+	text-decoration: none;
 }
 
 .clearfix:after {
@@ -96,18 +112,18 @@ footer p {
 
 .services {
 	background: #eee;
-	padding: 5em 0;
+	padding: 3em 0;
 }
 
 .services section {
 	width: 33.33%;
 	float: left;
-	padding: 0 2em;
+	padding: 2em 2em;
 }
 
 .services img {
 	width: 100%;
-	padding: 0 7em 0 0;
+	padding: 0 7em 1.5em 0;
 	/* display: block; */
 	/* margin: auto; */
 }
@@ -116,14 +132,14 @@ footer p {
 	padding: 1em 0;
 }
 
-/*.work {
-	padding: 5em 0;
-}*/
+.work {
+	padding: 3em 0;
+}
 
 .work div {
-	width: 25%;
+	width: 50%;
 	float: left;
-	padding: 1em;
+	padding: 2em 2em;
 }
 
 .work img {
