@@ -16,17 +16,19 @@ body {
 header {
 	background-color: #42C6C6;
 	position: relative;
+	padding-top: 2em;
 }
 
 header img {
 	width: 5em;
 	position: absolute;
-	left: 1em;
+	left: 7.5em;
 	top: 50%;
 	transform: translateY(-50%);
 }
 nav {
 	float:right;
+	padding-right: 7.5em;
 
 }
 nav a {
@@ -101,8 +103,8 @@ footer a {
 #hero {
 	background-color: #42C6C6;
 	height: 400px;
-	padding-top: 80px;
-	padding-left: 120px;
+	padding-top: 5em;
+	padding-left: 7.5em;
 }
 
 /*.services {
@@ -147,6 +149,23 @@ footer a {
 }
 
 .wrapper {
-    width: 1100px;
+    width: 85%;
     margin: auto;
 }
+
+.work a {
+	color: #7a7a7a;
+	padding-bottom:5px;
+	border-bottom: 2px solid #7a7a7a;
+	text-decoration: : none;
+	text-transform: uppercase;
+}
+
+.work a:hover {
+	color: #000;
+	padding-bottom:5px;
+	border-bottom: 2px solid #42C6C6;
+	text-decoration: : none;
+	text-transform: uppercase;
+}
+
