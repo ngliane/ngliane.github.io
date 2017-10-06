@@ -15,8 +15,7 @@ body {
 
 header {
 	background-color: #42C6C6;
-/*	position: relative;
-*/	padding-top: 2em;
+	padding-top: 2em;
 }
 
 header img {
@@ -35,11 +34,11 @@ nav {
 nav a {
 	color: #fff;
 	margin: 0 20px;
-		text-align: center;
-		text-transform: uppercase;
-		font-size: .9em;
-		font-weight: lighter;
-		text-decoration: none;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: .9em;
+	font-weight: lighter;
+	text-decoration: none;
 	display:inline-block;
 	padding:1em;
 }
@@ -103,7 +102,6 @@ footer a {
 
 #hero {
 	background-color: #42C6C6;
-	height: 400px;
 	padding-top: 5em;
 	padding-left: 7.5em;
 }
@@ -140,7 +138,7 @@ footer a {
 }
 
 .work div {
-	width: 50%;
+	width: 66.66%;
 	float: left;
 	padding: 2em 2em;
 }
@@ -162,7 +160,7 @@ footer a {
 	color: #7a7a7a;
 	padding-bottom:5px;
 	border-bottom: 2px solid #7a7a7a;
-	text-decoration: : none;
+	text-decoration: none;
 	text-transform: uppercase;
 }
 
