@@ -15,8 +15,8 @@ body {
 
 header {
 	background-color: #42C6C6;
-	position: relative;
-	padding-top: 2em;
+/*	position: relative;
+*/	padding-top: 2em;
 }
 
 header img {
@@ -143,6 +143,10 @@ footer a {
 	width: 50%;
 	float: left;
 	padding: 2em 2em;
+}
+
+.work-wide div {
+	width: 33.33%;
 }
 
 .work img {
