@@ -99,7 +99,7 @@ footer a {
 
 #hero {
 	background-color: #42C6C6;
-	padding-top: 15em 0 5em 7.5em;
+	padding: 15em 0 5em 7.5em;
 }
 
 
@@ -135,7 +135,7 @@ footer a {
 }
 
 .work div {
-	width: 66.66%;
+	width: 50%;
 	float: left;
 	padding: 2em 2em;
 }
