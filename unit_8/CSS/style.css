@@ -14,18 +14,20 @@ body {
 }
 
 header {
-	background-color: #42C6C6;
-	padding-top: 2em;
+	background-color: blue;
+	max-width: 1200px;
+    margin: auto;
 }
 
 header img {
 	width: 5em;
 	float: left;
+	padding: 2em 0 2em 0;
 }
 
 nav {
 	float:right;
-	padding-right: 7.5em;
+	padding: 2em 0 2em 0;
 }
 
 nav a {
@@ -99,7 +101,7 @@ footer a {
 
 #hero {
 	background-color: #42C6C6;
-	padding: 15em 0 5em 7.5em;
+	padding: 10em 0 10em 7.5em;
 }
 
 
@@ -135,13 +137,13 @@ footer a {
 }
 
 .work div {
-	width: 66.66%;
+	width: 33.33%;
 	float: left;
-	padding: 2em 2em;
+	padding: .5em .5em;
 }
 
-.work-wide div {
-	width: 33.33%;
+.work .work-wide {
+	width: 66.66%;
 }
 
 .work img {
@@ -149,7 +151,7 @@ footer a {
 }
 
 .wrapper {
-    width: 1200px;
+    max-width: 1200px;
     margin: auto;
 }
 
