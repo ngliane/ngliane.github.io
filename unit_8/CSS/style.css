@@ -137,13 +137,13 @@ footer a {
 }
 
 .work div {
-	width: 33.33%;
+	width: 35%;
 	float: left;
-/*	padding: .5em .5em;
-*/}
+	padding: 1em 1em;
+}
 
 .work .work-wide {
-	width: 66.66%;
+	width: 65%;
 }
 
 .work img {
