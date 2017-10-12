@@ -53,6 +53,7 @@ h1 {
 h1 span {
 	font-size:2em;
 }
+
 h2{
 	font-family: 'Abhaya Libre', serif;
 	font-size: 2em;
@@ -105,11 +106,6 @@ footer a {
 }
 
 
-/*.services {
-	margin: 3em 0;
-	background: #ddd;
-}*/
-
 .services {
 	background: #eee;
 	padding: 3em 0;
@@ -124,8 +120,6 @@ footer a {
 .services img {
 	width: 100%;
 	padding: 0 7em 1.5em 0;
-	/* display: block; */
-	/* margin: auto; */
 }
 
 .services h4 {
@@ -154,8 +148,6 @@ footer a {
     max-width: 1200px;
     margin: auto;
 }
-
-
 
 .work a {
 	color: #7a7a7a;
