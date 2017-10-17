@@ -76,7 +76,7 @@ hr{
 	height:4px;
 	background-color: #42C6C6;
 	width:2.5em;
-	margin: 1.5em 1.5em 1.5em 0;
+	margin: 1.5em 1.5em;
 }
 
 
@@ -114,7 +114,7 @@ footer a {
 .services section {
 	width: 33.33%;
 	float: left;
-	padding: 1.5em 1.5em 1.5em 0;
+	padding: 1.5em 1.5em;
 }
 
 .services img {
@@ -133,7 +133,7 @@ footer a {
 .work div {
 	width: 33.33%;
 	float: left;
-	padding: 1.5em 1.5em 1em 0;
+	padding: 1.5em 1.5em;
 	min-height: 27em
 }
 
