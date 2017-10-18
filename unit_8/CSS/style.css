@@ -215,7 +215,13 @@ footer a {
 	nav a {
 		padding: 1em .5em;
 	}
+	h1 {
+		font-size: 1.8em;
+	}
 
+	h1 span {
+		font-size: 1.8em;
+}
 	#hero {
 		padding: 7em 0;
 	}
