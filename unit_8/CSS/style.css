@@ -213,7 +213,7 @@ footer a {
 
 @media screen and (max-width:535px){
 	nav a {
-		padding: 1em .5em;
+		padding: 1em .2em;
 	}
 	h1 {
 		font-size: 1.8em;
@@ -227,16 +227,16 @@ footer a {
 	}
 
 	.services section {
-		padding: 2em 1.5em;
+		padding: 1.5em 1.5em;
 	}
 
 	.services img {
 		width: 60%;
 		float: none;
-	]
+	}
 
 	.services h3,p {
-		width: 50%;
+		width: 100%;
 		float: none;
 	}
 
@@ -252,4 +252,11 @@ footer a {
 	}
 }
 
+@media screen and (max-width:475px){
+	.services img {
+		width: 75%;
+		float: none;
+	}
+
+}
 
