@@ -160,7 +160,7 @@ footer a {
 	border-bottom: 2px solid #7a7a7a;
 	text-decoration: none;
 	text-transform: uppercase;
-	padding-left: 1.5em;
+	margin-left: 1.5em;
 }
 
 .work a:hover {
